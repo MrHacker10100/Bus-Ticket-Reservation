@@ -17,3 +17,11 @@ Creates instances of cust_name, station, and reciept.
 Invokes methods to gather user input, select destinations, generate a receipt, and display it.
 Runs a loop allowing two iterations of the ticket booking process.
 This program structure handles a basic ticket booking system for a bus station. Users can input their details, select a destination, choose ticket classes, and receive a receipt displaying booking information.
+
+🚌 Simple Bus Ticket Booking System (School Project) 🎓
+
+This basic bus ticket booking system was developed as a school project completed within a limited timeframe of 2 hours. It's a simplified program showcasing a customer entering their details, selecting a destination, and booking a ticket. Please note that this project was created specifically for educational purposes and may not cover all real-world functionalities.
+
+⚠️ Important Note: This project is designed as a demonstration and might lack extensive error handling or comprehensive features suitable for commercial use. It's a school project created within a constrained timeframe to showcase programming concepts.
+
+Thank you for understanding!
